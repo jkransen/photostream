@@ -1,0 +1,17 @@
+{ "photo": { "id": "42235256630", "secret": "0a5a16e2a9", "server": "1797", "farm": 2, "camera": "Canon EOS 5D Mark II",
+  "exif": [
+    { "tagspace": "IFD0", "tagspaceid": 0, "tag": "Make", "label": "Make",
+      "raw": { "_content": "Canon" } },
+    { "tagspace": "IFD0", "tagspaceid": 0, "tag": "Model", "label": "Model",
+      "raw": { "_content": "Canon EOS 5D Mark II" } },
+    { "tagspace": "IFD0", "tagspaceid": 0, "tag": "Orientation", "label": "Orientation",
+      "raw": { "_content": "Horizontal (normal)" } },
+    { "tagspace": "ExifIFD", "tagspaceid": 0, "tag": "FocalLength", "label": "Focal Length",
+      "raw": { "_content": "50.0 mm" },
+      "clean": { "_content": "50 mm" } },
+    { "tagspace": "ExifIFD", "tagspaceid": 0, "tag": "FNumber", "label": "Aperture",
+      "raw": { "_content": 5.6 },
+      "clean": { "_content": "f\/5.6" } }
+  ] },
+  "stat": "ok"
+}
